@@ -128,7 +128,7 @@ All tests are silent and stealthy. ✅
 
 ## 🧑‍💻 Author
 
-**Bhoomika Gowda**  
-[LinkedIn]( https://www.linkedin.com/in/bhoomikans) | [GitHub](https://github.com/bhoomi13)
+**Bhoomika N S**  
+[LinkedIn]( https://www.linkedin.com/in/bhoomikans)
 
 ---
